@@ -1,7 +1,7 @@
 export const OUTDATED_PRETTIER_VERSION_MESSAGE =
   "Uw project is geconfigureerd om een verouderde versie van KW1C Pretsel te gebruiken die niet door deze extensie kan worden gebruikt. Upgrade naar de nieuwste versie van KW1C Pretsel.";
 export const INVALID_PRETTIER_PATH_MESSAGE =
-  "`prettierPath` option does not reference a valid instance of Prettier. Please ensure you are passing a path to the prettier module, not the binary. Falling back to bundled version of prettier.";
+  "`prettierPath` optie verwijst niet naar een geldig exemplaar van KW1C Pretsel. Zorg ervoor dat u een pad doorgeeft naar de mooiere module, niet naar de binaire. Terugvallend op de gebundelde versie van KW1C Pretsel.";
 export const FAILED_TO_LOAD_MODULE_MESSAGE =
   "Kan module niet laden. Als je KW1C Pretsel of plug-ins hebt waarnaar in package.json wordt verwezen, zorg er dan voor dat je `npm install` . hebt uitgevoerd";
 export const INVALID_PRETTIER_CONFIG =
