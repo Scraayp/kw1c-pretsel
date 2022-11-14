@@ -8,7 +8,7 @@ export const INVALID_PRETTIER_CONFIG =
   "Ongeldig KW1C Pretsel configuratiebestand gedetecteerd. Zie logs voor details.";
 export const RESTART_TO_ENABLE =
   "Om KW1C Pretsel in of uit te schakelen na het wijzigen van de instelling 'inschakelen', moet u VS Code opnieuw starten.";
-export const USING_BUNDLED_PRETTIER = "Using bundled version of prettier.";
+export const USING_BUNDLED_PRETTIER = "Maakt gebruikt van gebundelde versie van KW1C Pretsel.";
 export const EXTENSION_DISABLED =
   "Extensie is uitgeschakeld. Er worden geen formatters geregistreerd. Om in te schakelen, wijzigt u 'prettier.enable' naar 'true' en start uw VS Code opnieuw op.";
 export const UNTRUSTED_WORKSPACE_USING_BUNDLED_PRETTIER =
